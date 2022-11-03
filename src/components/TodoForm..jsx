@@ -5,7 +5,7 @@ const TodoForm = (props) => {
 
   const submitHandler = (event) => {
     event.preventDefault();
-    props.onAddTodo({task: enteredTodo});
+    props.onAddTodo({content: enteredTodo});
     setEnteredTodo('');
   }
 
