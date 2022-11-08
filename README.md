@@ -11,8 +11,8 @@ React useState hook 에 대한 이해를 돕기 위해 간단한 Todo App을 통
 
 사이트주소: https://mui.com/material-ui/getting-started/installation/
 
-material-icon 사용을 위해서는 아래 두가지를 설치한다.
-npm install @mui/material @emotion/react @emotion/styled
+material-icon 사용을 위해서는 아래 두가지를 설치한다.  
+npm install @mui/material @emotion/react @emotion/styled  
 npm install @mui/icons-material
 
 ### `Tailwind CSS`
